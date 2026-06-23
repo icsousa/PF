@@ -1,4 +1,3 @@
-# Progamação Funcional
+# 📕 Progamação Funcional (PF)
 
-✅ This *repository* contains only the work sheets from the theoretical-practical classes.
-# PF
+Este repositório contém os materiais, exercícios e projetos desenvolvidos no âmbito da unidade curricular Programação Funcional, lecionada na licenciatura de Ciências da Computação na Universidade do Minho.
